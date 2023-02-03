@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gergely, an animator and 3D generalist.
 - 👀 I’m interested in creating images and the tools used make them.
-- 🌱 I’m currently learning Vex, Python and PySide.
+- 🌱 I’m currently learning Vex...and improving my Python
 - 📫 Drop me an email at hello@gergely-wootsch.com
 
 <!---
